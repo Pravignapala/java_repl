@@ -1,0 +1,12 @@
+# Package Sorting System - Requirements
+# 
+# This project has no external dependencies.
+# It uses only Python standard library modules.
+#
+# Python version: 3.7+
+#
+# For development and testing (optional):
+# pytest>=6.0.0
+# coverage>=5.0.0
+# black>=21.0.0
+# flake8>=3.8.0
